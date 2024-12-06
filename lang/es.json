@@ -1,0 +1,8 @@
+{
+    "welcome": "¡Bienvenido!",
+    "sign_in": "Iniciar sesión",
+    "e_mail": "Correo electrónico",
+    "password": "Contraseña",
+    "min_weight_message": "value > min, condition = false: min: {min}, condition: {condition}",
+    "extra_weight_message": "value > 1, index > 0, myArg = weight banana: myArg: {myArg}, index: {index}"
+}
